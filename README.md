@@ -1,5 +1,10 @@
 # test-vortex
 
+## To run tests
+ ```bash
+ make test
+ ```
+
 ## To run this project
  
 - rename example.env
